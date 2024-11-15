@@ -18,11 +18,11 @@ While the app focuses on functionality and dynamic interaction, less emphasis ha
 - **Image API**: Unsplash API.
 
 ## Limitations
--Minimal Styling: Basic CSS design with limited attention to aesthetics.
--Lack of Responsiveness: The app is not fully optimized for mobile or tablet devices.
+- **Minimal Styling**: Basic CSS design with limited attention to aesthetics.
+- **Lack of Responsiveness**: The app is not fully optimized for mobile or tablet devices.
 
 ## How to Use
--Open the app in your browser.
+- **Open the app in your browser.
 -Type a keyword in the search bar (e.g., "cats," "nature").
 -Click the search button to fetch images related to the keyword.
 -View the results displayed below the search bar.
