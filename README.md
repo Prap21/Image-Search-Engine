@@ -12,10 +12,10 @@ While the app focuses on functionality and dynamic interaction, less emphasis ha
 - **Minimal UI**: A straightforward interface that prioritizes functionality.
 
 ## Technologies Used
--HTML: For creating the structure of the app.
--CSS: For basic styling and layout.
--JavaScript: To handle API requests, process responses, and dynamically update the DOM.
--Image API: (Specify the API you used, e.g., Unsplash API or Pixabay API).
+- **HTML**: For creating the structure of the app.
+- **CSS**: For basic styling and layout.
+- **JavaScript**: To handle API requests, process responses, and dynamically update the DOM.
+- **Image API**: Unsplash API.
 
 ## Limitations
 -Minimal Styling: Basic CSS design with limited attention to aesthetics.
