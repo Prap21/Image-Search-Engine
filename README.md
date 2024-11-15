@@ -32,8 +32,8 @@ While the app focuses on functionality and dynamic interaction, less emphasis ha
 - Enhanced CSS: Improve the design for a more polished look.
 - Responsive Design: Make the app mobile-friendly.
 
-```bash
-https://prap21.github.io/Image-Search-Engine/
-```
+## How to View the Website
+You can view the website live at:  
+[Image Search Engine](https://Prap21.github.io/Image-Search-Engine/)
 
 Email me at dimosprap@gmail.com
