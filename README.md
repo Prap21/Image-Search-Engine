@@ -22,11 +22,11 @@ While the app focuses on functionality and dynamic interaction, less emphasis ha
 - **Lack of Responsiveness**: The app is not fully optimized for mobile or tablet devices.
 
 ## How to Use
-- **Open the app in your browser.
--Type a keyword in the search bar (e.g., "cats," "nature").
--Click the search button to fetch images related to the keyword.
--View the results displayed below the search bar.
--Scroll down to view results. Click the Show More button to load more images.
+- Open the app in your browser.
+- Type a keyword in the search bar (e.g., "cats," "nature").
+- Click the search button to fetch images related to the keyword.
+- View the results displayed below the search bar.
+- Scroll down to view results. Click the Show More button to load more images.
 
 ## Future Improvements
 -Enhanced CSS: Improve the design for a more polished look.
