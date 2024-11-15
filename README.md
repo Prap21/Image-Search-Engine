@@ -29,7 +29,10 @@ While the app focuses on functionality and dynamic interaction, less emphasis ha
 - Scroll down to view results. Click the Show More button to load more images.
 
 ## Future Improvements
--Enhanced CSS: Improve the design for a more polished look.
--Responsive Design: Make the app mobile-friendly.
+- Enhanced CSS: Improve the design for a more polished look.
+- Responsive Design: Make the app mobile-friendly.
 
+```bash
+```
 
+Email me at dimosprap@gmail.com
