@@ -6,10 +6,10 @@ The Image Search Engine is a simple web application that allows users to search 
 While the app focuses on functionality and dynamic interaction, less emphasis has been placed on CSS design and responsiveness, making it more suited for desktop use.
 ---
 ## Features
--**Search Functionality**: Users can input keywords to search for images.
--**Dynamic Image Rendering**: Results are fetched in real-time and displayed on the page.
--**API Integration**: Utilizes a third-party image API for fetching image data.
--**Minimal UI**: A straightforward interface that prioritizes functionality.
+- **Search Functionality**: Users can input keywords to search for images.
+- **Dynamic Image Rendering**: Results are fetched in real-time and displayed on the page.
+- **API Integration**: Utilizes a third-party image API for fetching image data.
+- **Minimal UI**: A straightforward interface that prioritizes functionality.
 
 ## Technologies Used
 -HTML: For creating the structure of the app.
